@@ -298,13 +298,13 @@
 <p align="left">
   <!-- Most Used Languages -->
   <img
-    height="200px;"
+    height="180px;"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=btbman&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true"
     alt="btbman"
   />
   <!-- GitHub Stats -->
   <img
-    height="200px;"
+    height="180px;"
     src="https://github-readme-stats.vercel.app/api?username=btbman&show_icons=true&locale=en&count_private=true&theme=tokyonight&hide_border=true"
     alt="btbman"
   />

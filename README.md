@@ -278,34 +278,33 @@
 
 ---
 
-<p style="display: flex;">
+<p align="left">
   <!-- trophy -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img
-      style="display: block; height: 200px;"
+      height="200px;"
       src="https://github-profile-trophy.vercel.app/?username=btbman&theme=tokyonight&no-frame=true&row=2&column=3"
       alt="btbman"
     />
-  </a><!-- Streak Stats --><img
-    style="display: block; height: 200px;"
-    align="center"
+  </a>
+  <!-- Streak Stats -->
+  <img
+    height="200px;"
     src="https://github-readme-streak-stats.herokuapp.com?user=BTBMan&theme=tokyonight&date_format=%5BY.%5Dn.j&hide_border=true"
     alt="btbman"
   />
 </p>
 
-<p style="display: flex;">
+<p align="left">
   <!-- Most Used Languages -->
   <img
-    style="display: block; height: 200px;"
-    align="left"
+    height="200px;"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=btbman&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true"
     alt="btbman"
   />
   <!-- GitHub Stats -->
   <img
-    style="display: block; height: 200px;"
-    align="center"
+    height="200px;"
     src="https://github-readme-stats.vercel.app/api?username=btbman&show_icons=true&locale=en&count_private=true&theme=tokyonight&hide_border=true"
     alt="btbman"
   />

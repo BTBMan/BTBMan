@@ -148,8 +148,14 @@
   </a>
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img
-      src="https://img.shields.io/badge/Express.js-404D59?style=flat-square"
+      src="https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white"
       alt="express"
+    />
+  </a>
+  <a href="https://koajs.com" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/Koa.js-33333d?style=flat-square&logo=koa&logoColor=white"
+      alt="koa"
     />
   </a>
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
@@ -206,6 +212,12 @@
       alt="rust"
     />
   </a>
+  <a href="https://swc.rs/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/SWC-000000?style=flat-square&logo=swc&logoColor=f3db33"
+      alt="swc"
+    />
+  </a>
   <a href="https://www.vim.org/" target="_blank" rel="noreferrer">
     <img
       src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat-square&logo=vim&logoColor=white"
@@ -222,6 +234,12 @@
     <img
       src="https://img.shields.io/badge/-jest-%23C21325?style=flat-square&logo=jest&logoColor=white"
       alt="jest"
+    />
+  </a>
+  <a href="https://jestjs.io" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/-Vitest-1c2015?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTY1IiBoZWlnaHQ9IjE2NSIgdmlld0JveD0iMCAwIDE2NSAxNjUiIGZpbGw9Im5vbmUiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+CjxwYXRoIGQ9Ik0xMjAuODMxIDU3LjI1NDNMODQuNjkzIDEwOS41MDVDODQuMzA5OSAxMTAuMDU5IDgzLjc1NTggMTEwLjQ3NCA4My4xMTQ4IDExMC42ODdDODIuNDczOCAxMTAuOSA4MS43ODA5IDExMC44OTggODEuMTQxMiAxMTAuNjg0QzgwLjUwMTUgMTEwLjQ2OSA3OS45NSAxMTAuMDUyIDc5LjU3MDIgMTA5LjQ5N0M3OS4xOTA1IDEwOC45NDEgNzkuMDAzMiAxMDguMjc3IDc5LjAzNyAxMDcuNjA2TDgwLjQ4MzMgNzguNzU4Mkw1Ny4xMzQzIDczLjgwNjRDNTYuNjM1MyA3My43MDA3IDU2LjE3MDQgNzMuNDc0IDU1Ljc4MDcgNzMuMTQ2NUM1NS4zOTEgNzIuODE5MSA1NS4wODg1IDcyLjQwMDkgNTQuOTAwMSA3MS45MjlDNTQuNzExNyA3MS40NTcxIDU0LjY0MzIgNzAuOTQ2MSA1NC43MDA2IDcwLjQ0MTJDNTQuNzU4IDY5LjkzNjQgNTQuOTM5NSA2OS40NTMyIDU1LjIyOTEgNjkuMDM0NUw5MS4zNjc1IDE2Ljc4MzdDOTEuNzUwNyAxNi4yMjk0IDkyLjMwNDggMTUuODE0NSA5Mi45NDU4IDE1LjYwMThDOTMuNTg2OSAxNS4zODkxIDk0LjI3OTggMTUuMzkwMiA5NC45MTk2IDE1LjYwNTFDOTUuNTU5MyAxNS44MTk5IDk2LjExMDkgMTYuMjM2NyA5Ni40OTA2IDE2Ljc5MjNDOTYuODcwMyAxNy4zNDc4IDk3LjA1NzUgMTguMDExNyA5Ny4wMjM2IDE4LjY4MzNMOTUuNTc3MyA0Ny41MzE0TDExOC45MjYgNTIuNDgyOEMxMTkuNDI1IDUyLjU4ODUgMTE5Ljg5IDUyLjgxNTIgMTIwLjI4IDUzLjE0MjZDMTIwLjY3IDUzLjQ3MDEgMTIwLjk3MiA1My44ODgzIDEyMS4xNiA1NC4zNjAyQzEyMS4zNDkgNTQuODMyMSAxMjEuNDE3IDU1LjM0MzEgMTIxLjM2IDU1Ljg0NzlDMTIxLjMwMyA1Ni4zNTI4IDEyMS4xMjEgNTYuODM2IDEyMC44MzEgNTcuMjU0N0wxMjAuODMxIDU3LjI1NDNaIiBmaWxsPSIjRkNDNzJCIi8+CjxwYXRoIGQ9Ik04Mi45ODY2IDE1My4zNDNDODIuMDI1NCAxNTMuMzQ0IDgxLjA3MzUgMTUzLjE1NiA4MC4xODU1IDE1Mi43ODhDNzkuMjk3NSAxNTIuNDIgNzguNDkwOSAxNTEuODggNzcuODEyMiAxNTEuMkw0My42NjU4IDExNy4wNTZDNDIuMjk5OCAxMTUuNjgzIDQxLjUzNDEgMTEzLjgyNCA0MS41MzY2IDExMS44ODdDNDEuNTM5MiAxMDkuOTUgNDIuMzA5OCAxMDguMDkyIDQzLjY3OTYgMTA2LjcyM0M0NS4wNDkzIDEwNS4zNTMgNDYuOTA2NCAxMDQuNTgyIDQ4Ljg0MzUgMTA0LjU3OUM1MC43ODA3IDEwNC41NzcgNTIuNjM5OSAxMDUuMzQyIDU0LjAxMzQgMTA2LjcwOEw4Mi45ODY2IDEzNS42NzhMMTQ2LjEwNSA3Mi41NjI2QzE0Ny40ODEgNzEuMjA4OCAxNDkuMzM2IDcwLjQ1MzYgMTUxLjI2NiA3MC40NjE1QzE1My4xOTcgNzAuNDY5MyAxNTUuMDQ2IDcxLjIzOTYgMTU2LjQxIDcyLjYwNDVDMTU3Ljc3NSA3My45Njk1IDE1OC41NDYgNzUuODE4NCAxNTguNTU0IDc3Ljc0ODdDMTU4LjU2MSA3OS42NzkgMTU3LjgwNiA4MS41MzQyIDE1Ni40NTIgODIuOTEwMUw4OC4xNTk3IDE1MS4yQzg3LjQ4MTEgMTUxLjg4MSA4Ni42NzQ3IDE1Mi40MiA4NS43ODY5IDE1Mi43ODhDODQuODk5MiAxNTMuMTU2IDgzLjk0NzUgMTUzLjM0NCA4Mi45ODY2IDE1My4zNDNaIiBmaWxsPSIjNzI5QjFCIi8+CjxwYXRoIGQ9Ik04Mi45NTcyIDE1My4zNDNDODMuOTE4NCAxNTMuMzQ0IDg0Ljg3MDMgMTUzLjE1NiA4NS43NTgzIDE1Mi43ODhDODYuNjQ2MyAxNTIuNDIgODcuNDUyOCAxNTEuODggODguMTMxNiAxNTEuMkwxMjIuMjc4IDExNy4wNTZDMTIzLjY0NCAxMTUuNjgzIDEyNC40MSAxMTMuODI0IDEyNC40MDcgMTExLjg4N0MxMjQuNDA1IDEwOS45NSAxMjMuNjM0IDEwOC4wOTIgMTIyLjI2NCAxMDYuNzIzQzEyMC44OTQgMTA1LjM1MyAxMTkuMDM3IDEwNC41ODIgMTE3LjEgMTA0LjU3OUMxMTUuMTYzIDEwNC41NzcgMTEzLjMwNCAxMDUuMzQyIDExMS45MyAxMDYuNzA4TDgyLjk1NzIgMTM1LjY3OEwxOS44Mzg5IDcyLjU2MjZDMTguNDYyOSA3MS4yMDg4IDE2LjYwNzcgNzAuNDUzNiAxNC42Nzc1IDcwLjQ2MTVDMTIuNzQ3MiA3MC40NjkzIDEwLjg5ODIgNzEuMjM5NiA5LjUzMzMxIDcyLjYwNDVDOC4xNjgzOSA3My45Njk1IDcuMzk4MTEgNzUuODE4NCA3LjM5MDI1IDc3Ljc0ODdDNy4zODIzOSA3OS42NzkgOC4xMzc1OSA4MS41MzQyIDkuNDkxMzUgODIuOTEwMUw3Ny43ODQgMTUxLjJDNzguNDYyNyAxNTEuODgxIDc5LjI2OTEgMTUyLjQyIDgwLjE1NjggMTUyLjc4OEM4MS4wNDQ2IDE1My4xNTYgODEuOTk2MyAxNTMuMzQ0IDgyLjk1NzIgMTUzLjM0M1oiIGZpbGw9IiM3MjlCMUIiIGZpbGwtb3BhY2l0eT0iMC41Ii8+Cjwvc3ZnPgo="
+      alt="vitest"
     />
   </a>
   <a href="https://www.nginx.com" target="_blank" rel="noreferrer">

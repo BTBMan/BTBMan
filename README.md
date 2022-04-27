@@ -53,20 +53,24 @@
       alt="codesandbox"
     />
   </a>
+  <a href="mailto:1498118157@qq.com" target="blank">
+    <img
+      align="center"
+      src="https://img.shields.io/badge/QQMail-4599e7?style=flat-square&logo=gmail&logoColor=white"
+      alt="qqmail"
+    />
+  </a>
+  <a href="mailto:xiaolong1498@gmail.com" target="blank">
+    <img
+      align="center"
+      src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"
+      alt="gmail"
+    />
+  </a>
   <img
     align="center"
     src="https://img.shields.io/badge/WeChat-WY200J-007C160?style=flat-square&logo=wechat&logoColor=white"
     alt="wechat"
-  />
-  <img
-    align="center"
-    src="https://img.shields.io/badge/QQMail-1498118157@qq.com-4599e7?style=flat-square&logo=gmail&logoColor=white"
-    alt="qqmail"
-  />
-  <img
-    align="center"
-    src="https://img.shields.io/badge/Gmail-xiaolong1498@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"
-    alt="gmail"
   />
 </p>
 
@@ -126,7 +130,7 @@
   </a>
   <a href="https://vitejs.dev/" target="_blank" rel="noreferrer">
     <img
-      src="https://img.shields.io/badge/Vite-B73BFE?style=&logo=vite&logoColor=FFD62E"
+      src="https://img.shields.io/badge/Vite-B73BFE?style=flat-square&logo=vite&logoColor=FFD62E"
       alt="vite"
     />
   </a>
@@ -204,7 +208,7 @@
   </a>
   <a href="https://www.vim.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=&logo=vim&logoColor=white"
+      src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat-square&logo=vim&logoColor=white"
       alt="vim"
     />
   </a>

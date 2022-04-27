@@ -96,7 +96,7 @@
   </a>
   <a href="https://lesscss.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://img.shields.io/badge/less-2B4C80?style=&logo=less&logoColor=white"
+      src="https://img.shields.io/badge/less-2B4C80?style=flat-square&logo=less&logoColor=white"
       alt="less"
     />
   </a>
@@ -160,7 +160,7 @@
   </a>
   <a href="rollupjs.org" target="_blank" rel="noreferrer">
     <img
-      src="https://img.shields.io/badge/rolup.js-EC4A3F?style=&logo=rollup.js&logoColor=white"
+      src="https://img.shields.io/badge/rolup.js-EC4A3F?style=flat-square&logo=rollup.js&logoColor=white"
       alt="rollup"
     />
   </a>
@@ -172,7 +172,7 @@
   </a>
   <a href="https://www.electronjs.org" target="_blank" rel="noreferrer">
     <img
-      src="https://img.shields.io/badge/Electron-2B2E3A?style=&logo=electron&logoColor=9FEAF9"
+      src="https://img.shields.io/badge/Electron-2B2E3A?style=flat-square&logo=electron&logoColor=9FEAF9"
       alt="electron"
     />
   </a>
@@ -184,19 +184,19 @@
   </a>
   <a href="https://eslint.org/" target="_blank" rel="noreferrer">
     <img
-      src="https://img.shields.io/badge/eslint-3A33D1?style=&logo=eslint&logoColor=white"
+      src="https://img.shields.io/badge/eslint-3A33D1?style=flat-square&logo=eslint&logoColor=white"
       alt="eslint"
     />
   </a>
   <a href="https://prettier.io/" target="_blank" rel="noreferrer">
     <img
-      src="https://img.shields.io/badge/prettier-1A2C34?style=&logo=prettier&logoColor=F7BA3E"
+      src="https://img.shields.io/badge/prettier-1A2C34?style=flat-square&logo=prettier&logoColor=F7BA3E"
       alt="prettier"
     />
   </a>
   <a href="https://stylelint.io/" target="_blank" rel="noreferrer">
     <img
-      src="https://img.shields.io/badge/stylelint-000?style=&logo=stylelint&logoColor=white"
+      src="https://img.shields.io/badge/stylelint-000?style=flat-square&logo=stylelint&logoColor=white"
       alt="stylelint"
     />
   </a>

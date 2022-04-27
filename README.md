@@ -8,18 +8,20 @@
 ---
 
 <h3 align="left">Use for Entertainment:</h3>
-<img
-  src="https://img.shields.io/badge/Apple-MacBook_Pro-999999?style=for-the-badge&logo=apple&logoColor=white"
-  alt="MacBook"
-/>
-<img
-  src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"
-  alt="spotify"
-/>
-<img
-  src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white"
-  alt="soundCloud"
-/>
+<p>
+  <img
+    src="https://img.shields.io/badge/Apple-MacBook_Pro-999999?style=for-the-badge&logo=apple&logoColor=white"
+    alt="MacBook"
+  />
+  <img
+    src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"
+    alt="spotify"
+  />
+  <img
+    src="https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white"
+    alt="soundCloud"
+  />
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,37 +35,37 @@
   <a href="https://twitter.com/btbmannn" target="blank">
     <img
       align="center"
-      src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
+      src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white"
       alt="twitter"
     />
   </a>
   <a href="https://stackoverflow.com/users/12450455/btb" target="blank">
     <img
       align="center"
-      src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"
+      src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=flat-square&logo=stack-overflow&logoColor=white"
       alt="stackoverflow"
     />
   </a>
   <a href="https://codesandbox.com/btb" target="blank">
     <img
       align="center"
-      src="https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white"
+      src="https://img.shields.io/badge/Codesandbox-000000?style=flat-square&logo=CodeSandbox&logoColor=white"
       alt="codesandbox"
     />
   </a>
   <img
     align="center"
-    src="https://img.shields.io/badge/WeChat-WY200J-007C160?style=for-the-badge&logo=wechat&logoColor=white"
+    src="https://img.shields.io/badge/WeChat-WY200J-007C160?style=flat-square&logo=wechat&logoColor=white"
     alt="wechat"
   />
   <img
     align="center"
-    src="https://img.shields.io/badge/QQMail-1498118157@qq.com-4599e7?style=for-the-badge&logo=gmail&logoColor=white"
+    src="https://img.shields.io/badge/QQMail-1498118157@qq.com-4599e7?style=flat-square&logo=gmail&logoColor=white"
     alt="qqmail"
   />
   <img
     align="center"
-    src="https://img.shields.io/badge/Gmail-xiaolong1498@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    src="https://img.shields.io/badge/Gmail-xiaolong1498@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"
     alt="gmail"
   />
 </p>
@@ -284,9 +286,7 @@
       src="https://github-profile-trophy.vercel.app/?username=btbman&theme=tokyonight&no-frame=true&row=2&column=3"
       alt="btbman"
     />
-  </a>
-  <!-- Streak Stats -->
-  <img
+  </a><!-- Streak Stats --><img
     style="display: block; height: 200px;"
     align="center"
     src="https://github-readme-streak-stats.herokuapp.com?user=BTBMan&theme=tokyonight&date_format=%5BY.%5Dn.j&hide_border=true"

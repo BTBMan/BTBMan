@@ -282,7 +282,7 @@
 
 ---
 
-<p align="left">
+<p align="center">
   <!-- trophy -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img
@@ -299,7 +299,7 @@
   />
 </p>
 
-<p align="left">
+<p align="center">
   <!-- Most Used Languages -->
   <img
     height="180px;"

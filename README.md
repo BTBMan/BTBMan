@@ -300,22 +300,22 @@
 
 ---
 
-<p align="center">
+<!-- <p align="center"> -->
   <!-- trophy -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
+  <!-- <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img
       height="200px;"
       src="https://github-profile-trophy.vercel.app/?username=btbman&theme=tokyonight&no-frame=true&row=2&column=3"
       alt="btbman"
     />
-  </a>
+  </a> -->
   <!-- Streak Stats -->
-  <img
+  <!-- <img
     height="200px;"
     src="https://github-readme-streak-stats.herokuapp.com?user=BTBMan&theme=tokyonight&date_format=%5BY.%5Dn.j&hide_border=true"
     alt="btbman"
   />
-</p>
+</p> -->
 
 <p align="center">
   <!-- Most Used Languages -->

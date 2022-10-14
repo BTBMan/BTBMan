@@ -1,7 +1,7 @@
 <h2 align="left"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to meet you.</h1>
 <h4 align="left">I'm A passionate frontend developer</h3>
 
-- 🌱 I’m currently learning **Rust､ Algorithm､ Design Pattern and Vue3 Source**
+- 🌱 I’m currently learning **Rust､ Algorithm､ Design Pattern**
 
 - 🎯 A small target is to find a **Remote Job**
 

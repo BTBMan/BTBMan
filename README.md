@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Rust､ Algorithm､ Design Pattern**
 
-- 🎯 A small target is to find a **Remote Job**
+- 🎯 A small goal is to find a **Remote Job**
 
 ---
 

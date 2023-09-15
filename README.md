@@ -321,7 +321,7 @@
   <!-- Most Used Languages -->
   <img
     height="180px;"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=btbman&show_icons=true&locale=en&count_private=true&layout=compact&theme=buefy&hide_border=true&bg_color=DEG,ea633d,914c97&text_color=ffffff&icon_color=ffffff&title_color=ffffff"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=btbman&show_icons=true&locale=en&count_private=true&layout=compact&theme=buefy&hide_border=true&bg_color=DEG,ea633d,914c97&text_color=ffffff&icon_color=ffffff&title_color=ffffff&hide=html,less,css"
     alt="btbman"
   />
   <!-- GitHub Stats -->

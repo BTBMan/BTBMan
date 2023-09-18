@@ -327,7 +327,7 @@
   <!-- GitHub Stats -->
   <img
     height="180px;"
-    src="https://github-readme-stats.vercel.app/api?username=btbman&show_icons=true&locale=en&count_private=true&theme=buefy&hide_border=true&bg_color=DEG,ea633d,914c97&text_color=ffffff&icon_color=ffffff&title_color=ffffff"
+    src="https://github-readme-stats-btbman.vercel.app/api?username=btbman&show_icons=true&locale=en&count_private=true&theme=buefy&hide_border=true&bg_color=DEG,ea633d,914c97&text_color=ffffff&icon_color=ffffff&title_color=ffffff&include_all_commits=true"
     alt="btbman"
   />
 </p>

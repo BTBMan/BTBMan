@@ -60,7 +60,7 @@
       alt="qqmail"
     />
   </a>
-  <a href="mailto:xiaolong1498@gmail.com" target="blank">
+  <a href="mailto:johnwon.me@gmail.com" target="blank">
     <img
       align="center"
       src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"

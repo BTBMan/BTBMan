@@ -1,9 +1,9 @@
 <h2 align="left"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to meet you.</h1>
-<h4 align="left">I'm A passionate frontend developer</h3>
+<h4 align="left">I'm A passionate frontend developer and love web 3</h3>
 
-- 🌱 I’m currently learning **Rust､ Algorithm､ Design Pattern**
+- 🌱 I’m currently learning **Web 3**
 
-- 🎯 A small goal is to find a **Remote Job**
+- 🎯 My goal is to find a **Remote Job**
 
 ---
 
@@ -294,6 +294,40 @@
     <img
       src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"
       alt="postman"
+    />
+  </a>
+</p>
+
+<h3 align="left">Web 3:</h3>
+<p align="left">
+  <a href="https://docs.ethers.org/v6/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/EthersJS-28359a?style=flat-square&logo=ethers&logoColor=white"
+      alt="html"
+    />
+  </a>
+  <a href="https://wagmi.sh/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/Wagmi-bb7af8?style=flat-square&logo=wagmi&logoColor=white"
+      alt="html"
+    />
+  </a>
+  <a href="https://soliditylang.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/Solidity-3e3984?style=flat-square&logo=solidity&logoColor=white"
+      alt="html"
+    />
+  </a>
+  <a href="https://getfoundry.sh/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/Foundry-000000?style=flat-square&logo=foundry&logoColor=white"
+      alt="html"
+    />
+  </a>
+  <a href="https://hardhat.org/" target="_blank" rel="noreferrer">
+    <img
+      src="https://img.shields.io/badge/Hardhat-fdf150?style=flat-square&logo=hardhat&logoColor=white"
+      alt="html"
     />
   </a>
 </p>
